@@ -1,4 +1,4 @@
-# Simulation_and_modelling
+# Modelling and Simulation
 
 1.Linear Parametrization, Estimation of Unknown Parameters, Method of Least Squares
 
